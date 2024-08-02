@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MauriJAO/MauriJAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mauricio Aravena, and I am from Santiago, Chile. I am a professional chemical analyst and have been training in web development for the past two years. I completed two bootcamp courses: Full Stack Python Application Development Trainee (Edutecno) and Front-End Application Development Trainee (Infocal), both offered through SENCE and Talento Digital.
 
-Here are some ideas to get you started:
+My work experience is in the chemical industry, where my responsibilities focus on delivering results within specified timeframes and ensuring the reliability of the results obtained. I am an enthusiastic person eager to continue developing in the field of web development, contributing a different perspective to make websites more user-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mauricio-aravena-6374361ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mauricio.aravena.opitz@gmail.com)
+
+
+
+
+
+
